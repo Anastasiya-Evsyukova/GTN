@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GTN": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
